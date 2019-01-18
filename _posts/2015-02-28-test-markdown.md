@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ông chủ Amazon Jeff Bezos ly hôn.
-subtitle: Each post also has a subtitle
+subtitle: Chỉnh sửa ngày 18/01/2019 by owner
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
